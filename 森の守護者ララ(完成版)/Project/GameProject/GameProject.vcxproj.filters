@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Slime.cpp" />
+    <ClCompile Include="DebugPrint.cpp" />
+    <ClCompile Include="ObjectBase.cpp" />
+    <ClCompile Include="CharaBase.cpp" />
+    <ClCompile Include="EnemyBase.cpp" />
+    <ClCompile Include="EnemyManager.cpp" />
+    <ClCompile Include="Task.cpp" />
+    <ClCompile Include="TaskManager.cpp" />
+    <ClCompile Include="UI.cpp" />
+    <ClCompile Include="Rock.cpp" />
+    <ClCompile Include="Mosubi.cpp" />
+    <ClCompile Include="Ground.cpp" />
+    <ClCompile Include="Mana.cpp" />
+    <ClCompile Include="Potion.cpp" />
+    <ClCompile Include="BGTree2.cpp" />
+    <ClCompile Include="BGTree3.cpp" />
+    <ClCompile Include="BGFog.cpp" />
+    <ClCompile Include="BGTree1.cpp" />
+    <ClCompile Include="Boss.cpp" />
+    <ClCompile Include="HPBar.cpp" />
+    <ClCompile Include="Shadow1.cpp" />
+    <ClCompile Include="Shadow2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Global.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Slime.h" />
+    <ClInclude Include="DebugPrint.h" />
+    <ClInclude Include="ObjectBase.h" />
+    <ClInclude Include="CharaBase.h" />
+    <ClInclude Include="EnemyBase.h" />
+    <ClInclude Include="EnemyManager.h" />
+    <ClInclude Include="Task.h" />
+    <ClInclude Include="TaskManager.h" />
+    <ClInclude Include="UI.h" />
+    <ClInclude Include="Rock.h" />
+    <ClInclude Include="Mosubi.h" />
+    <ClInclude Include="Ground.h" />
+    <ClInclude Include="Mana.h" />
+    <ClInclude Include="Potion.h" />
+    <ClInclude Include="BGTree2.h" />
+    <ClInclude Include="BGTree3.h" />
+    <ClInclude Include="BGFog.h" />
+    <ClInclude Include="BGTree1.h" />
+    <ClInclude Include="Boss.h" />
+    <ClInclude Include="HPBar.h" />
+    <ClInclude Include="Shadow1.h" />
+    <ClInclude Include="Shadow2.h" />
+  </ItemGroup>
+</Project>
